@@ -1,0 +1,145 @@
+{
+  "verifiedCounts": {
+    "hearnow": 4,
+    "spotifyArtist": 12,
+    "appleArtist": 12,
+    "appleAlbum2": 4
+  },
+  "unmarkedHashLinks": {},
+  "placeholderSummary": {
+    "about.html": [
+      "Follow on Facebook",
+      "Follow on Instagram",
+      "Watch on YouTube",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Amazon Music",
+      "YouTube"
+    ],
+    "contact.html": [
+      "Follow on Facebook",
+      "Follow on Instagram",
+      "Watch on YouTube",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Amazon Music",
+      "YouTube"
+    ],
+    "index.html": [
+      "Follow on Facebook",
+      "Follow on Instagram",
+      "Watch on YouTube",
+      "Amazon Music",
+      "YouTube",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Amazon Music",
+      "YouTube"
+    ],
+    "journal.html": [
+      "Follow on Facebook",
+      "Follow on Instagram",
+      "Watch on YouTube",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Amazon Music",
+      "YouTube"
+    ],
+    "legacy.html": [
+      "Follow on Facebook",
+      "Follow on Instagram",
+      "Watch on YouTube",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Amazon Music",
+      "YouTube"
+    ],
+    "music.html": [
+      "Follow on Facebook",
+      "Follow on Instagram",
+      "Watch on YouTube",
+      "Listen to Teachers",
+      "Amazon Music",
+      "YouTube",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Amazon Music",
+      "YouTube"
+    ],
+    "press.html": [
+      "Follow on Facebook",
+      "Follow on Instagram",
+      "Watch on YouTube",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Amazon Music",
+      "YouTube"
+    ],
+    "stories.html": [
+      "Follow on Facebook",
+      "Follow on Instagram",
+      "Watch on YouTube",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Amazon Music",
+      "YouTube"
+    ],
+    "videos.html": [
+      "Follow on Facebook",
+      "Follow on Instagram",
+      "Watch on YouTube",
+      "Watch Teachers official video",
+      "Watch Why I Write personal message",
+      "Watch behind the scenes of Reflections with Lillie",
+      "Subscribe on YouTube",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Amazon Music",
+      "YouTube"
+    ],
+    "watch.html": [
+      "Follow on Facebook",
+      "Follow on Instagram",
+      "Watch on YouTube",
+      "Watch Teachers official music video",
+      "Watch Why I Write — a personal message from Lillie",
+      "Watch behind the scenes of Reflections with Lillie",
+      "Coming Soon First Message",
+      "Coming Soon Second Message",
+      "Coming Soon Third Message",
+      "Subscribe on YouTube",
+      "Facebook",
+      "Instagram",
+      "YouTube",
+      "Amazon Music",
+      "YouTube"
+    ]
+  },
+  "files": [
+    "README.md",
+    "about.html",
+    "contact.html",
+    "index.html",
+    "journal.html",
+    "legacy.html",
+    "music.html",
+    "press.html",
+    "script.js",
+    "stories.html",
+    "styles.css",
+    "videos.html",
+    "watch.html"
+  ]
+}
