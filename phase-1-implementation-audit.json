@@ -1,0 +1,224 @@
+{
+  "imageStatus": [
+    {
+      "path": "images/lillie-portrait.jpg",
+      "present": true,
+      "bytes": 471308,
+      "width": 1051,
+      "height": 1496
+    },
+    {
+      "path": "images/lillie-writing.jpg",
+      "present": true,
+      "bytes": 812365,
+      "width": 2048,
+      "height": 2032
+    },
+    {
+      "path": "images/lillie-about.jpg",
+      "present": true,
+      "bytes": 509229,
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "path": "images/og-cover.jpg",
+      "present": true,
+      "bytes": 205041,
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "images/albums/album-1.jpg",
+      "present": true,
+      "bytes": 812365,
+      "width": 2048,
+      "height": 2032
+    },
+    {
+      "path": "images/albums/album-2.jpg",
+      "present": true,
+      "bytes": 319016,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "path": "images/singles/teachers-cover.jpg",
+      "present": true,
+      "bytes": 704069,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "images/videos/teachers-video.jpg",
+      "present": true,
+      "bytes": 704069,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "images/videos/why-i-write.jpg",
+      "present": true,
+      "bytes": 812365,
+      "width": 2048,
+      "height": 2032
+    },
+    {
+      "path": "images/videos/behind-the-album.jpg",
+      "present": true,
+      "bytes": 575770,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "brokenImageRefs": [],
+  "extrasList": [
+    "images/extras/lillie-3.jpg",
+    "images/extras/lillie-5.jpg",
+    "images/extras/lillie-6.jpg"
+  ],
+  "verifiedCounts": {
+    "hearnow": 4,
+    "spotifyArtist": 12,
+    "appleArtist": 12,
+    "appleAlbum2": 4
+  },
+  "placeholderCounts": {
+    "about.html": 8,
+    "contact.html": 11,
+    "index.html": 10,
+    "journal.html": 8,
+    "legacy.html": 8,
+    "music.html": 11,
+    "press.html": 8,
+    "stories.html": 8,
+    "videos.html": 12,
+    "watch.html": 15
+  },
+  "unmarkedPlaceholders": [],
+  "internalLinkIssues": [
+    {
+      "file": "about.html",
+      "href": "privacy.html",
+      "text": "Privacy Policy"
+    },
+    {
+      "file": "about.html",
+      "href": "terms.html",
+      "text": "Terms of Use"
+    },
+    {
+      "file": "contact.html",
+      "href": "privacy.html",
+      "text": "Privacy Policy"
+    },
+    {
+      "file": "contact.html",
+      "href": "terms.html",
+      "text": "Terms of Use"
+    },
+    {
+      "file": "index.html",
+      "href": "privacy.html",
+      "text": "Privacy Policy"
+    },
+    {
+      "file": "index.html",
+      "href": "terms.html",
+      "text": "Terms of Use"
+    },
+    {
+      "file": "journal.html",
+      "href": "privacy.html",
+      "text": "Privacy Policy"
+    },
+    {
+      "file": "journal.html",
+      "href": "terms.html",
+      "text": "Terms of Use"
+    },
+    {
+      "file": "legacy.html",
+      "href": "privacy.html",
+      "text": "Privacy Policy"
+    },
+    {
+      "file": "legacy.html",
+      "href": "terms.html",
+      "text": "Terms of Use"
+    },
+    {
+      "file": "music.html",
+      "href": "privacy.html",
+      "text": "Privacy Policy"
+    },
+    {
+      "file": "music.html",
+      "href": "terms.html",
+      "text": "Terms of Use"
+    },
+    {
+      "file": "press.html",
+      "href": "privacy.html",
+      "text": "Privacy Policy"
+    },
+    {
+      "file": "press.html",
+      "href": "terms.html",
+      "text": "Terms of Use"
+    },
+    {
+      "file": "stories.html",
+      "href": "privacy.html",
+      "text": "Privacy Policy"
+    },
+    {
+      "file": "stories.html",
+      "href": "terms.html",
+      "text": "Terms of Use"
+    },
+    {
+      "file": "videos.html",
+      "href": "privacy.html",
+      "text": "Privacy Policy"
+    },
+    {
+      "file": "videos.html",
+      "href": "terms.html",
+      "text": "Terms of Use"
+    },
+    {
+      "file": "watch.html",
+      "href": "privacy.html",
+      "text": "Privacy Policy"
+    },
+    {
+      "file": "watch.html",
+      "href": "terms.html",
+      "text": "Terms of Use"
+    }
+  ],
+  "staticDeployment": {
+    "cloudflareReadyStatic": true,
+    "htmlCssJsOnly": true,
+    "hasFrameworkFiles": false,
+    "files": [
+      "README.md",
+      "about.html",
+      "contact.html",
+      "image-asset-audit.json",
+      "index.html",
+      "journal.html",
+      "legacy.html",
+      "music-link-audit.json",
+      "music.html",
+      "phase-1-implementation-audit.json",
+      "press.html",
+      "script.js",
+      "stories.html",
+      "styles.css",
+      "videos.html",
+      "watch.html"
+    ]
+  }
+}
