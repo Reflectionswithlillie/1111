@@ -1,0 +1,371 @@
+{
+  "pages": {
+    "about.html": {
+      "title": "About Lillie Riley — Songwriter, Storyteller, Woman of Faith | Reflections with Lillie",
+      "h1Count": 1,
+      "h1s": [
+        "About Lillie"
+      ],
+      "placeholders": 8,
+      "unmarkedPlaceholders": [],
+      "brokenInternalLinks": [],
+      "forms": [],
+      "imagesMissingAlt": [],
+      "brokenImages": [],
+      "hasHeader": true,
+      "hasFooter": true,
+      "hasScript": true,
+      "hasStyles": true
+    },
+    "contact.html": {
+      "title": "Contact — Reflections with Lillie",
+      "h1Count": 1,
+      "h1s": [
+        "Contact"
+      ],
+      "placeholders": 11,
+      "unmarkedPlaceholders": [],
+      "brokenInternalLinks": [],
+      "forms": [
+        {
+          "action": "#",
+          "method": "post"
+        }
+      ],
+      "imagesMissingAlt": [],
+      "brokenImages": [],
+      "hasHeader": true,
+      "hasFooter": true,
+      "hasScript": true,
+      "hasStyles": true
+    },
+    "index.html": {
+      "title": "Reflections with Lillie — Songs Born from Life. Stories That Last.",
+      "h1Count": 1,
+      "h1s": [
+        "Songs born from life."
+      ],
+      "placeholders": 10,
+      "unmarkedPlaceholders": [],
+      "brokenInternalLinks": [],
+      "forms": [
+        {
+          "action": "#",
+          "method": "post"
+        }
+      ],
+      "imagesMissingAlt": [],
+      "brokenImages": [],
+      "hasHeader": true,
+      "hasFooter": true,
+      "hasScript": true,
+      "hasStyles": true
+    },
+    "journal.html": {
+      "title": "Reflections Journal — Reflections with Lillie",
+      "h1Count": 1,
+      "h1s": [
+        "Reflections Journal"
+      ],
+      "placeholders": 8,
+      "unmarkedPlaceholders": [],
+      "brokenInternalLinks": [],
+      "forms": [
+        {
+          "action": "#",
+          "method": "post"
+        }
+      ],
+      "imagesMissingAlt": [],
+      "brokenImages": [],
+      "hasHeader": true,
+      "hasFooter": true,
+      "hasScript": true,
+      "hasStyles": true
+    },
+    "legacy.html": {
+      "title": "Legacy — Reflections with Lillie",
+      "h1Count": 1,
+      "h1s": [
+        "Legacy"
+      ],
+      "placeholders": 8,
+      "unmarkedPlaceholders": [],
+      "brokenInternalLinks": [],
+      "forms": [],
+      "imagesMissingAlt": [],
+      "brokenImages": [],
+      "hasHeader": true,
+      "hasFooter": true,
+      "hasScript": true,
+      "hasStyles": true
+    },
+    "music.html": {
+      "title": "Music — Albums &amp; Singles by Lillie Riley | Reflections with Lillie",
+      "h1Count": 1,
+      "h1s": [
+        "The Music"
+      ],
+      "placeholders": 11,
+      "unmarkedPlaceholders": [],
+      "brokenInternalLinks": [],
+      "forms": [],
+      "imagesMissingAlt": [],
+      "brokenImages": [],
+      "hasHeader": true,
+      "hasFooter": true,
+      "hasScript": true,
+      "hasStyles": true
+    },
+    "press.html": {
+      "title": "Press &amp; Media — Lillie Riley | Reflections with Lillie",
+      "h1Count": 1,
+      "h1s": [
+        "Press &amp; Media"
+      ],
+      "placeholders": 8,
+      "unmarkedPlaceholders": [],
+      "brokenInternalLinks": [],
+      "forms": [],
+      "imagesMissingAlt": [],
+      "brokenImages": [],
+      "hasHeader": true,
+      "hasFooter": true,
+      "hasScript": true,
+      "hasStyles": true
+    },
+    "privacy.html": {
+      "title": "Privacy Policy | Reflections with Lillie",
+      "h1Count": 1,
+      "h1s": [
+        "Privacy Policy"
+      ],
+      "placeholders": 8,
+      "unmarkedPlaceholders": [],
+      "brokenInternalLinks": [],
+      "forms": [],
+      "imagesMissingAlt": [],
+      "brokenImages": [],
+      "hasHeader": true,
+      "hasFooter": true,
+      "hasScript": true,
+      "hasStyles": true
+    },
+    "stories.html": {
+      "title": "The Stories Behind the Songs — Reflections with Lillie",
+      "h1Count": 1,
+      "h1s": [
+        "The Stories"
+      ],
+      "placeholders": 8,
+      "unmarkedPlaceholders": [],
+      "brokenInternalLinks": [],
+      "forms": [],
+      "imagesMissingAlt": [],
+      "brokenImages": [],
+      "hasHeader": true,
+      "hasFooter": true,
+      "hasScript": true,
+      "hasStyles": true
+    },
+    "terms.html": {
+      "title": "Terms of Use | Reflections with Lillie",
+      "h1Count": 1,
+      "h1s": [
+        "Terms of Use"
+      ],
+      "placeholders": 8,
+      "unmarkedPlaceholders": [],
+      "brokenInternalLinks": [],
+      "forms": [],
+      "imagesMissingAlt": [],
+      "brokenImages": [],
+      "hasHeader": true,
+      "hasFooter": true,
+      "hasScript": true,
+      "hasStyles": true
+    },
+    "videos.html": {
+      "title": "Videos — Watch Lillie Riley | Reflections with Lillie",
+      "h1Count": 1,
+      "h1s": [
+        "Videos"
+      ],
+      "placeholders": 12,
+      "unmarkedPlaceholders": [],
+      "brokenInternalLinks": [],
+      "forms": [],
+      "imagesMissingAlt": [],
+      "brokenImages": [],
+      "hasHeader": true,
+      "hasFooter": true,
+      "hasScript": true,
+      "hasStyles": true
+    },
+    "watch.html": {
+      "title": "Watch — Music Videos &amp; Visual Stories | Reflections with Lillie",
+      "h1Count": 1,
+      "h1s": [
+        "Watch"
+      ],
+      "placeholders": 15,
+      "unmarkedPlaceholders": [],
+      "brokenInternalLinks": [],
+      "forms": [],
+      "imagesMissingAlt": [],
+      "brokenImages": [],
+      "hasHeader": true,
+      "hasFooter": true,
+      "hasScript": true,
+      "hasStyles": true
+    }
+  },
+  "issues": [
+    {
+      "severity": "medium",
+      "file": "contact.html",
+      "issue": "Form action pending backend"
+    },
+    {
+      "severity": "medium",
+      "file": "index.html",
+      "issue": "Form action pending backend"
+    },
+    {
+      "severity": "medium",
+      "file": "journal.html",
+      "issue": "Form action pending backend"
+    }
+  ],
+  "musicCards": [
+    {
+      "title": "Reflections with Lillie",
+      "label": "Album",
+      "image": "images/albums/album-1.jpg",
+      "hrefs": [
+        "https://lillieriley.hearnow.com/reflections-with-lillie",
+        "https://lillieriley.hearnow.com/reflections-with-lillie"
+      ]
+    },
+    {
+      "title": "Reflections with Lillie 2",
+      "label": "Album",
+      "image": "images/albums/album-2.jpg",
+      "hrefs": [
+        "https://music.apple.com/us/album/reflections-with-lillie-2/1891876849",
+        "https://music.apple.com/us/album/reflections-with-lillie-2/1891876849"
+      ]
+    },
+    {
+      "title": "Teachers",
+      "label": "Single",
+      "image": "images/singles/teachers-cover.jpg",
+      "hrefs": [
+        "#",
+        "stories.html#teachers"
+      ]
+    },
+    {
+      "title": "",
+      "label": "",
+      "image": "",
+      "hrefs": []
+    }
+  ],
+  "missingPages": [
+    {
+      "label": "Gallery",
+      "file": "gallery.html"
+    }
+  ],
+  "assets": {
+    "requiredImages": [
+      {
+        "path": "images/lillie-portrait.jpg",
+        "present": true,
+        "bytes": 471308
+      },
+      {
+        "path": "images/lillie-writing.jpg",
+        "present": true,
+        "bytes": 812365
+      },
+      {
+        "path": "images/lillie-about.jpg",
+        "present": true,
+        "bytes": 509229
+      },
+      {
+        "path": "images/og-cover.jpg",
+        "present": true,
+        "bytes": 205041
+      },
+      {
+        "path": "images/albums/album-1.jpg",
+        "present": true,
+        "bytes": 812365
+      },
+      {
+        "path": "images/albums/album-2.jpg",
+        "present": true,
+        "bytes": 319016
+      },
+      {
+        "path": "images/singles/teachers-cover.jpg",
+        "present": true,
+        "bytes": 704069
+      },
+      {
+        "path": "images/videos/teachers-video.jpg",
+        "present": true,
+        "bytes": 704069
+      },
+      {
+        "path": "images/videos/why-i-write.jpg",
+        "present": true,
+        "bytes": 812365
+      },
+      {
+        "path": "images/videos/behind-the-album.jpg",
+        "present": true,
+        "bytes": 575770
+      }
+    ]
+  },
+  "verifiedExternalLinks": [
+    {
+      "url": "https://lillieriley.hearnow.com/reflections-with-lillie",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://lillieriley.hearnow.com/reflections-with-lillie",
+      "contentType": "text/html; charset=UTF-8"
+    },
+    {
+      "url": "https://open.spotify.com/artist/2LuKNsGdmMvZCMLNtctDl3",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://open.spotify.com/artist/2LuKNsGdmMvZCMLNtctDl3",
+      "contentType": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://music.apple.com/us/artist/lillie-riley/1885630300",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://music.apple.com/us/artist/lillie-riley/1885630300",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://music.apple.com/us/album/reflections-with-lillie-2/1891876849",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://music.apple.com/us/album/reflections-with-lillie-2/1891876849",
+      "contentType": "text/html"
+    }
+  ],
+  "staticDeployment": {
+    "cloudflareReady": true,
+    "buildCommand": "none",
+    "outputDirectory": "site root",
+    "frameworkFiles": []
+  }
+}

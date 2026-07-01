@@ -1,0 +1,128 @@
+{
+  "imageStatus": [
+    {
+      "path": "images/lillie-portrait.jpg",
+      "present": true,
+      "bytes": 471308,
+      "width": 1051,
+      "height": 1496
+    },
+    {
+      "path": "images/lillie-writing.jpg",
+      "present": true,
+      "bytes": 812365,
+      "width": 2048,
+      "height": 2032
+    },
+    {
+      "path": "images/lillie-about.jpg",
+      "present": true,
+      "bytes": 509229,
+      "width": 1086,
+      "height": 1448
+    },
+    {
+      "path": "images/og-cover.jpg",
+      "present": true,
+      "bytes": 205041,
+      "width": 1200,
+      "height": 630
+    },
+    {
+      "path": "images/albums/album-1.jpg",
+      "present": true,
+      "bytes": 812365,
+      "width": 2048,
+      "height": 2032
+    },
+    {
+      "path": "images/albums/album-2.jpg",
+      "present": true,
+      "bytes": 319016,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "path": "images/singles/teachers-cover.jpg",
+      "present": true,
+      "bytes": 704069,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "images/videos/teachers-video.jpg",
+      "present": true,
+      "bytes": 704069,
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "path": "images/videos/why-i-write.jpg",
+      "present": true,
+      "bytes": 812365,
+      "width": 2048,
+      "height": 2032
+    },
+    {
+      "path": "images/videos/behind-the-album.jpg",
+      "present": true,
+      "bytes": 575770,
+      "width": 1254,
+      "height": 1254
+    }
+  ],
+  "brokenImageRefs": [],
+  "extrasList": [
+    "images/extras/lillie-3.jpg",
+    "images/extras/lillie-5.jpg",
+    "images/extras/lillie-6.jpg"
+  ],
+  "imageRefs": {
+    "about.html": [
+      "https://reflectionswithlillie.com/images/og-cover.jpg",
+      "images/lillie-about.jpg"
+    ],
+    "contact.html": [
+      "https://reflectionswithlillie.com/images/og-cover.jpg"
+    ],
+    "index.html": [
+      "https://reflectionswithlillie.com/images/og-cover.jpg",
+      "https://reflectionswithlillie.com/images/og-cover.jpg",
+      "images/lillie-portrait.jpg",
+      "images/lillie-writing.jpg",
+      "images/albums/album-1.jpg",
+      "images/albums/album-2.jpg",
+      "images/singles/teachers-cover.jpg"
+    ],
+    "journal.html": [
+      "https://reflectionswithlillie.com/images/og-cover.jpg"
+    ],
+    "legacy.html": [
+      "https://reflectionswithlillie.com/images/og-cover.jpg"
+    ],
+    "music.html": [
+      "https://reflectionswithlillie.com/images/og-cover.jpg",
+      "images/albums/album-1.jpg",
+      "images/albums/album-2.jpg",
+      "images/singles/teachers-cover.jpg"
+    ],
+    "press.html": [
+      "https://reflectionswithlillie.com/images/og-cover.jpg"
+    ],
+    "stories.html": [
+      "https://reflectionswithlillie.com/images/og-cover.jpg"
+    ],
+    "videos.html": [
+      "https://reflectionswithlillie.com/images/og-cover.jpg",
+      "images/videos/teachers-video.jpg",
+      "images/videos/why-i-write.jpg",
+      "images/videos/behind-the-album.jpg"
+    ],
+    "watch.html": [
+      "https://reflectionswithlillie.com/images/og-cover.jpg",
+      "images/videos/teachers-video.jpg",
+      "images/videos/why-i-write.jpg",
+      "images/videos/behind-the-album.jpg"
+    ]
+  }
+}
