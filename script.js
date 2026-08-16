@@ -14,6 +14,20 @@
 
 'use strict';
 
+/* ─── Official social links ─────────────────────────────
+ * Single source of truth for the three approved accounts.
+ * The header/footer social icons and text links on every page
+ * are static HTML (no build step), so update the href in each
+ * page's header-social / footer-social block AND update the
+ * values below together when an account URL ever changes.
+ */
+const SOCIAL_LINKS = {
+  facebook: 'https://www.facebook.com/lillierileymusic',
+  instagram: 'https://www.instagram.com/reflectionswithlillie/',
+  youtube: 'https://www.youtube.com/@Reflectionswithlillie',
+};
+
+
 /* ─── 1. Copyright year ─────────────────────────────── */
 const yearEl = document.getElementById('copy-year');
 if (yearEl) yearEl.textContent = new Date().getFullYear();
